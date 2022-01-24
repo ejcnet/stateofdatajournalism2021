@@ -6,7 +6,7 @@ The State of Data Journalism 2021 Survey comprises a total of 63 questions and h
 The here publicised dataset does not fully reflect the raw data resulting from the survey in the aim to protect the privacy of respondents. The survey was presented as anonymous to begin with, but optional participation in a raffle meant the submission of name and email from a subset of respondents. These fields, as well as other fields that could have allowed deanonymisation, have been removed. 
 
 Files:
-- `survey_questions_state_of_data_journalism_2021` is the public version of our 2021 survey respondents dataset
+- `survey_questions_state_of_data_journalism_2021.csv` is the public version of our 2021 survey respondents dataset
 - `survey_responses_state_of_data_journalism_2021.csv` shows the matching between our recoded variables names and the original survey question and multiple choice question options
 
 
