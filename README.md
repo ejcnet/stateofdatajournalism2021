@@ -1,6 +1,6 @@
 # Survey State of Data Journalism 2021
 
-Final result and more info here: https://datajournalism.com/survey
+Final result and more info here: https://datajournalism.com/survey/2021/
 
 ## Data
 
